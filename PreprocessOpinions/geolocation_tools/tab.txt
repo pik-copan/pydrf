@@ -1,0 +1,43 @@
+\begin{tabular}{ll}
+\toprule
+                                            name &                                           geometry \\
+\midrule
+                          Fresh Fitness Hvidovre &  POLYGON ((12.4691961 55.6415696, 12.4690051 55... \\
+                                      Fitness.dk &                      POINT (12.5618214 55.6614733) \\
+                                       FitnessDK &                      POINT (12.5114098 55.6647699) \\
+                                   Fresh Fitness &                      POINT (12.5404751 55.6975516) \\
+                                           Fresh &                      POINT (12.4199488 55.6493081) \\
+                                   Fitness World &                      POINT (12.4418141 55.7231967) \\
+                          Fitness World Ballerup &                      POINT (12.3579672 55.7296181) \\
+                           Fitness World Brøndby &                       POINT (12.4383494 55.667303) \\
+                        Fitness World Farum Park &                        POINT (12.351312 55.817297) \\
+ Fitness World Frederiksberg Bernhard Bangs Alle &                      POINT (12.5104671 55.6844058) \\
+               Fitness World Frederiksberg Forum &                      POINT (12.5524718 55.6830906) \\
+     Fitness World Frederiksberg Peter Bangs Vej &                         POINT (12.513168 55.67954) \\
+                          Fitness World Gentofte &                       POINT (12.5378949 55.738612) \\
+                          Fitness World Glostrup &                        POINT (12.4008395 55.66408) \\
+          Fitness World Greve Hundige Storcenter &                      POINT (12.3274148 55.5987709) \\
+                             Fitness World Greve &                      POINT (12.2984612 55.5905648) \\
+                            Fitness World Herlev &                      POINT (12.4160534 55.7253403) \\
+                             Fitness World Husum &                      POINT (12.4810239 55.7095419) \\
+      Fitness World København Baron Boltens Gård &                      POINT (12.5848511 55.6820125) \\
+            Fitness World København Ellebjergvej &                      POINT (12.5108247 55.6507568) \\
+          Fitness World København Emdrup Station &                       POINT (12.5409464 55.721874) \\
+             Fitness World København Englandsvej &                       POINT (12.6043943 55.656969) \\
+             Fitness World København Gasværksvej &                      POINT (12.5570237 55.6708078) \\
+                 Fitness World København Jagtvej &                        POINT (12.550941 55.696498) \\
+               Fitness World København Lyngbyvej &                      POINT (12.5604444 55.7116463) \\
+                Fitness World København Lyongade &                      POINT (12.6099453 55.6613686) \\
+         Fitness World København Nordre Fasanvej &                      POINT (12.5364747 55.6985181) \\
+             Fitness World København Strandvejen &                      POINT (12.5777058 55.7219712) \\
+     Fitness World København Vester Farimagsgade &                      POINT (12.5623173 55.6782088) \\
+               Fitness World København Århusgade &                      POINT (12.5872772 55.7067752) \\
+                            Fitness World Lyngby &                      POINT (12.5039072 55.7688801) \\
+                             Fitness World Måløv &                      POINT (12.3187172 55.7485909) \\
+                            Fitness World Søborg &                      POINT (12.4932893 55.7395909) \\
+                          Fitness World Taastrup &                      POINT (12.3017208 55.6529634) \\
+                  Fitness World Valby Mosedalvej &                      POINT (12.5134815 55.6674858) \\
+                           Fitness World Værløse &                      POINT (12.3615021 55.7821745) \\
+                                       fitnessdk &                      POINT (12.4392816 55.7249089) \\
+\bottomrule
+\end{tabular}

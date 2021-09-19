@@ -1,0 +1,3037 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-01-30T14:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25896213",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fvst:name": "McDonalds",
+        "fvst:navnelbnr": "113503",
+        "internet_access": "wlan",
+        "name": "McDonald's Valby",
+        "opening_hours": "Mo-Th 09:00-24:00, Fr 09:00-01:00, Sa 10:00-01:00, Su 10:00-24:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5087131,
+              55.6502417
+            ],
+            [
+              12.5086839,
+              55.6499696
+            ],
+            [
+              12.5089416,
+              55.6499608
+            ],
+            [
+              12.5089708,
+              55.6502328
+            ],
+            [
+              12.5088406,
+              55.6502373
+            ],
+            [
+              12.5088459,
+              55.6502864
+            ],
+            [
+              12.5087298,
+              55.6502904
+            ],
+            [
+              12.5087246,
+              55.6502413
+            ],
+            [
+              12.5087131,
+              55.6502417
+            ]
+          ]
+        ]
+      },
+      "id": "way/25896213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25951344",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "email": "avd3012@kingfood.dk",
+        "fvst:navnelbnr": "577389",
+        "name": "Burger King",
+        "opening_hours": "24/7",
+        "operator": "Burger King",
+        "phone": "+45 50768008",
+        "website": "http://burgerking.dk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5092354,
+              55.6510701
+            ],
+            [
+              12.5099001,
+              55.6508963
+            ],
+            [
+              12.5100142,
+              55.6510352
+            ],
+            [
+              12.5093495,
+              55.6512091
+            ],
+            [
+              12.5092354,
+              55.6510701
+            ]
+          ]
+        ]
+      },
+      "id": "way/25951344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98751137",
+        "amenity": "fast_food",
+        "branch": "Ballerup",
+        "brand:wikidata": "Q38076",
+        "building": "retail",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "535336",
+        "internet_access": "wlan",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3845684,
+              55.7222997
+            ],
+            [
+              12.3842074,
+              55.722327
+            ],
+            [
+              12.3841717,
+              55.7221773
+            ],
+            [
+              12.3845327,
+              55.72215
+            ],
+            [
+              12.3845684,
+              55.7222997
+            ]
+          ]
+        ]
+      },
+      "id": "way/98751137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121023065",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "building": "retail",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "91844",
+        "internet_access": "wlan",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.459982,
+              55.6449435
+            ],
+            [
+              12.4600636,
+              55.6448059
+            ],
+            [
+              12.4605349,
+              55.6448948
+            ],
+            [
+              12.4604534,
+              55.6450324
+            ],
+            [
+              12.459982,
+              55.6449435
+            ]
+          ]
+        ]
+      },
+      "id": "way/121023065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/143759057",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "91980",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "07:00-01:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4378467,
+              55.716522
+            ],
+            [
+              12.4380303,
+              55.7167936
+            ],
+            [
+              12.4377423,
+              55.7168554
+            ],
+            [
+              12.4375587,
+              55.7165839
+            ],
+            [
+              12.4375864,
+              55.7165779
+            ],
+            [
+              12.4378467,
+              55.716522
+            ]
+          ]
+        ]
+      },
+      "id": "way/143759057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160990249",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "116242",
+        "name": "Havnelyst",
+        "opening_hours": "Mo-Fr 06:00-22:00",
+        "phone": "+45 27456918"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5950322,
+              55.7168907
+            ],
+            [
+              12.595041,
+              55.716889
+            ],
+            [
+              12.5950842,
+              55.7168805
+            ],
+            [
+              12.5951535,
+              55.7168669
+            ],
+            [
+              12.595135,
+              55.7168371
+            ],
+            [
+              12.5952259,
+              55.7168192
+            ],
+            [
+              12.5952777,
+              55.7169028
+            ],
+            [
+              12.5950655,
+              55.7169445
+            ],
+            [
+              12.5950322,
+              55.7168907
+            ]
+          ]
+        ]
+      },
+      "id": "way/160990249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166817158",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "538702",
+        "internet_access": "wlan",
+        "name": "McDonald's - Brøndby",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4367062,
+              55.6687465
+            ],
+            [
+              12.4367509,
+              55.6686128
+            ],
+            [
+              12.4372921,
+              55.6686705
+            ],
+            [
+              12.4372473,
+              55.6688041
+            ],
+            [
+              12.4367062,
+              55.6687465
+            ]
+          ]
+        ]
+      },
+      "id": "way/166817158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218566205",
+        "amenity": "fast_food",
+        "branch": "Vallensbæk",
+        "brand:wikidata": "Q38076",
+        "building": "commercial",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fvst:name": "McDonalds Vallensbæk",
+        "fvst:navnelbnr": "716959",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "operator": "McDonalds"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3902614,
+              55.6228633
+            ],
+            [
+              12.3905669,
+              55.6228786
+            ],
+            [
+              12.3905333,
+              55.6230936
+            ],
+            [
+              12.3902277,
+              55.6230783
+            ],
+            [
+              12.3902614,
+              55.6228633
+            ]
+          ]
+        ]
+      },
+      "id": "way/218566205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310826730",
+        "amenity": "fast_food",
+        "brand": "Rute 66",
+        "building": "yes",
+        "cuisine": "burger",
+        "fvst:fixme": "wrong location in FVST",
+        "fvst:navnelbnr": "509147",
+        "name": "Grill & Burgerhouse Veksø"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2323481,
+              55.7581969
+            ],
+            [
+              12.2324461,
+              55.7581649
+            ],
+            [
+              12.2325184,
+              55.7582361
+            ],
+            [
+              12.2324246,
+              55.7582686
+            ],
+            [
+              12.2323481,
+              55.7581969
+            ]
+          ]
+        ]
+      },
+      "id": "way/310826730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514960389",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "661109",
+        "name": "Burger King Ishøj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3219266,
+              55.6235706
+            ],
+            [
+              12.3218052,
+              55.6232982
+            ],
+            [
+              12.3220299,
+              55.6232663
+            ],
+            [
+              12.3221349,
+              55.623502
+            ],
+            [
+              12.3219719,
+              55.6235251
+            ],
+            [
+              12.3219883,
+              55.6235618
+            ],
+            [
+              12.3219266,
+              55.6235706
+            ]
+          ]
+        ]
+      },
+      "id": "way/514960389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276203847",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "115685",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Burger King",
+        "opening_hours": "24/7",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5695904,
+          55.6764708
+        ]
+      },
+      "id": "node/276203847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281175696",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "fvst:name": "McDonalds Taastrup",
+        "fvst:navnelbnr": "706654",
+        "internet_access": "wlan",
+        "name": "McDonald's Taastrup",
+        "operator": "McDonalds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2844537,
+          55.6589785
+        ]
+      },
+      "id": "node/281175696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/286998291",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "127078",
+        "name": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3305518,
+          55.5976932
+        ]
+      },
+      "id": "node/286998291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292177709",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "111488",
+        "internet_access": "wlan",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5631713,
+          55.6623226
+        ]
+      },
+      "id": "node/292177709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298723979",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "548861",
+        "name": "Sliders",
+        "opening_hours": "Tu-Sa 11:00-22:00; Su 11:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5621406,
+          55.687174
+        ]
+      },
+      "id": "node/298723979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307666493",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fvst:navnelbnr": "538622",
+        "internet_access": "wlan",
+        "name": "McDonald's Jyllingevej"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4630036,
+          55.6925972
+        ]
+      },
+      "id": "node/307666493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335626036",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "116749",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su,PH 07:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6572543,
+          55.6315622
+        ]
+      },
+      "id": "node/335626036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/340492129",
+        "addr:city": "København SV",
+        "addr:country": "DK",
+        "addr:housenumber": "4",
+        "addr:municipality": "København",
+        "addr:postcode": "2450",
+        "addr:street": "Blushøjvej",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "osak:identifier": "0a3f507a-4882-32b8-e044-0003ba298018",
+        "source": "AWS Web API"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.508845,
+          55.650104
+        ]
+      },
+      "id": "node/340492129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413719127",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "112136",
+        "name": "Hong Kong Grill",
+        "opening_hours": "Mo-Fr 15:00-23:00; Su 13:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5161705,
+          55.6630036
+        ]
+      },
+      "id": "node/413719127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448426063",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "Tinas Pølse",
+        "fvst:navnelbnr": "108664",
+        "name": "Tina's Pølser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2824267,
+          55.6291981
+        ]
+      },
+      "id": "node/448426063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495634535",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "wrong location in FVST",
+        "fvst:navnelbnr": "124122",
+        "name": "Sjælør Kebab & Burger House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5269445,
+          55.6517749
+        ]
+      },
+      "id": "node/495634535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578322670",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "567054",
+        "internet_access": "wlan",
+        "name": "McDonald's Nørrevold",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5721223,
+          55.6830865
+        ]
+      },
+      "id": "node/578322670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660828308",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "115686",
+        "name": "Burger King",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5667167,
+          55.675618
+        ]
+      },
+      "id": "node/660828308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727407042",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "519422",
+        "name": "Burger Palace",
+        "opening_hours": "Mo-Su 11:00-05:00",
+        "phone": "+45 33232682",
+        "website": "http://www.burgerpalace.dk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5480658,
+          55.672073
+        ]
+      },
+      "id": "node/727407042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/732619358",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "free_refill": "yes",
+        "fvst:name": "Sunset Boulevard Butik 16A",
+        "fvst:navnelbnr": "116211",
+        "internet_access": "no",
+        "level": "0",
+        "name": "Sunset Boulevard",
+        "operator": "Sunset Boulevard",
+        "payment:visa": "yes",
+        "payment:visa:contactless": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5647545,
+          55.6729533
+        ]
+      },
+      "id": "node/732619358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/746249306",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "534287",
+        "name": "Nabilo Pizzeria & Grill",
+        "phone": "+45 32 95 58 69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5765463,
+          55.6664542
+        ]
+      },
+      "id": "node/746249306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/894418113",
+        "cuisine": "burger",
+        "name": "Garbo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.571429,
+          55.677503
+        ]
+      },
+      "id": "node/894418113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/899246059",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "512204",
+        "name": "Den Sorte Gryde",
+        "opening_hours": "Mo-Fr 14:00-22:00; Sa-Su 12:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5974803,
+          55.6671947
+        ]
+      },
+      "id": "node/899246059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1271171744",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "116568",
+        "level": "2",
+        "name": "Burger King",
+        "website": "http://www.burgerking.dk/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5771361,
+          55.6300005
+        ]
+      },
+      "id": "node/1271171744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1354227243",
+        "alt_name": "The Burger Hvidovre",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "741467",
+        "name": "The Burger",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "website": "http://theburger.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4590153,
+          55.6415033
+        ]
+      },
+      "id": "node/1354227243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1489660498",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "diet:vegetarian": "yes",
+        "fvst:navnelbnr": "118433",
+        "name": "Sporvejen",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+45 33 13 31 01",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.575676,
+          55.679453
+        ]
+      },
+      "id": "node/1489660498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612958813",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "Bronx Burger",
+        "fvst:navnelbnr": "112364",
+        "name": "The Bronx Burger Indre By",
+        "opening_hours": "Su-Th 12:00-22:30; Fr-Sa 12:00-23:00",
+        "phone": "+45 33911918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5746882,
+          55.6761206
+        ]
+      },
+      "id": "node/1612958813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629913378",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "564072",
+        "internet_access": "wlan",
+        "name": "McDonald's Østerbrogade",
+        "opening_hours": "Th-Su 00:00-24:00; Su-We 07:00-02:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5777297,
+          55.704634
+        ]
+      },
+      "id": "node/1629913378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1674558044",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "location inaccurate",
+        "fvst:navnelbnr": "93393",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5175108,
+          55.754759
+        ]
+      },
+      "id": "node/1674558044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1681735581",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "117753",
+        "name": "Haché Gourmet Burgers",
+        "website": "http://www.hache.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5697732,
+          55.6845789
+        ]
+      },
+      "id": "node/1681735581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2053552761",
+        "amenity": "fast_food",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "515100",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "start_date": "2012-12-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5847998,
+          55.6796121
+        ]
+      },
+      "id": "node/2053552761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120227780",
+        "amenity": "fast_food",
+        "contact:email": "info@halifax.dk",
+        "cuisine": "burger",
+        "fvst:name": "Halifax",
+        "fvst:navnelbnr": "500661",
+        "name": "Halifax Burger Restaurant",
+        "opening_hours": "Mo-Sa 12:00-22:00; Su 12:00-21:00",
+        "operator": "Halifax",
+        "phone": "+45 82303200",
+        "website": "http://www.halifax.nu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5778833,
+          55.6989893
+        ]
+      },
+      "id": "node/2120227780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280130486",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "117889",
+        "name": "Halifax",
+        "opening_hours": "Mo-Sa 11:30-22:00;Su 11:30-21:00",
+        "phone": "+45 82 30 32 00",
+        "website": "http://www.halifax.dk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5666541,
+          55.6854488
+        ]
+      },
+      "id": "node/3280130486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3312759812",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "533667",
+        "name": "Grillen Nørrebro",
+        "opening_hours": "11:30-23:00",
+        "phone": "+45 35353569",
+        "takeaway": "yes",
+        "website": "http://grillenburgerbar.dk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.560312,
+          55.687899
+        ]
+      },
+      "id": "node/3312759812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3404342409",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "762117",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hot Buns",
+        "opening_hours": "Mo-Tu 16:00-22:00, We 12:00-22:00, Th 12:00-24:00, Fr-Sa 12:00-02:00, Su 12:00-22:00",
+        "operator": "Hot Buns",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58488,
+          55.68147
+        ]
+      },
+      "id": "node/3404342409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3726598018",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "569145",
+        "name": "Østerbros Originale Burgerrestaurant",
+        "opening_hours": "12:00-23:00",
+        "phone": "+45 3311 3304",
+        "takeaway": "yes",
+        "website": "http://oeb-burgers.dk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5779994,
+          55.6995202
+        ]
+      },
+      "id": "node/3726598018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3746050587",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "707875",
+        "name": "Cocks & Cows Østerbro",
+        "opening_hours": "Su-We 12:00-00:00; Th-Sa 12:00-02:00",
+        "opening_hours:kitchen": "Su-Th 12:00-21:30; Fr-Sa 12:00-22:30",
+        "phone": "+45 69696000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5795017,
+          55.6988074
+        ]
+      },
+      "id": "node/3746050587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3763675171",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "523908",
+        "name": "Cocks & Cows",
+        "opening_hours": "Su-Th 11:30-21:30; Fr-Sa 11:30-22:30",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://cocksandcows.dk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5788252,
+          55.6777981
+        ]
+      },
+      "id": "node/3763675171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3771908693",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "707813",
+        "name": "Cock's & Cows SP34",
+        "opening_hours": "Su-Th 12:00-21:30; Fr-Sa 12:00-22:30",
+        "phone": "+45 69696000",
+        "website": "http://cocksandcows.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5665053,
+          55.6787142
+        ]
+      },
+      "id": "node/3771908693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798352991",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "665476",
+        "name": "Cowboy Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.517748,
+          55.706316
+        ]
+      },
+      "id": "node/3798352991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798409944",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "570601",
+        "name": "The Amerikan Burger & Steak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.507341,
+          55.771364
+        ]
+      },
+      "id": "node/3798409944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3811531419",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "missing position in FVST",
+        "fvst:navnelbnr": "567337",
+        "name": "McDonald's Glostrup",
+        "source": "local knowledge",
+        "website": "http://www.mcdonalds.dk/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3793732,
+          55.6643767
+        ]
+      },
+      "id": "node/3811531419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827903062",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "646036",
+        "name": "Burger House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.388939,
+          55.665158
+        ]
+      },
+      "id": "node/3827903062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887005208",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "505545",
+        "name": "Vesterbro Original Burgerrestaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5584402,
+          55.6708525
+        ]
+      },
+      "id": "node/3887005208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887005211",
+        "amenity": "fast_food",
+        "branch": "Hovedbanegården",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "567049",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "McDonald's",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5643647,
+          55.6727671
+        ]
+      },
+      "id": "node/3887005211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887006773",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "541653",
+        "name": "Grill Royal Kongens Nytorv",
+        "opening_hours": "Mo-Fr 08:00-24:00; Sa 12:00-24:00; Su 12:00-23:00",
+        "operator": "madklubben",
+        "website": "http://www.madklubben.dk/bistro-royal/menu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5850751,
+          55.6814081
+        ]
+      },
+      "id": "node/3887006773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887006778",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "540565",
+        "name": "Chicken and Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611286,
+          55.653478
+        ]
+      },
+      "id": "node/3887006778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3901179858",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "573318",
+        "name": "Burger King",
+        "operator": "Riaz Burger 6",
+        "phone": "+45 53 60 01 31",
+        "source": "Geodatastyrelsen (Denmark)",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3950843,
+          55.6549958
+        ]
+      },
+      "id": "node/3901179858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3922469482",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "576818",
+        "name": "Burgerhytten",
+        "opening_hours": "11:00-21:00; Jun-Aug 11:00-22:00",
+        "phone": "+45 43904252",
+        "source": "Bing",
+        "website": "http://burgerhytten.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2816527,
+          55.5683365
+        ]
+      },
+      "id": "node/3922469482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3930752857",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "716957",
+        "name": "McDonald's Greve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3291954,
+          55.5997859
+        ]
+      },
+      "id": "node/3930752857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3948159624",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "The Burger & Sandwich",
+        "fvst:navnelbnr": "95338",
+        "name": "The Sandwich & Burger",
+        "opening_hours": "10:00-22:00; Su,PH 12:00-22:00",
+        "phone": "+45 45700003",
+        "website": "http://the-sandwich.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5053742,
+          55.7693083
+        ]
+      },
+      "id": "node/3948159624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3962594708",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "749433",
+        "name": "Fresh Kitchen",
+        "takeaway": "yes",
+        "website": "http://www.fresh-kitchen.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.357794,
+          55.673327
+        ]
+      },
+      "id": "node/3962594708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3966029644",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "736118",
+        "name": "Den Sorte Gryde",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4874937,
+          55.6308769
+        ]
+      },
+      "id": "node/3966029644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971397963",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "577190",
+        "name": "Hulk´s BurgerHus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.395991,
+          55.665583
+        ]
+      },
+      "id": "node/3971397963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978244504",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "761836",
+        "name": "New York Burger Bar",
+        "website": "http://www.newyorksandwich.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6135538,
+          55.6488821
+        ]
+      },
+      "id": "node/3978244504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978930498",
+        "alt_name": "Det Sorte Gryde",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "fvst:navnelbnr": "768900",
+        "name": "Den Sorte Gryde",
+        "opening_hours": "15:00-22:00; Sa-Su 12:00-22:00",
+        "phone": "+45 43963298",
+        "takeaway": "yes",
+        "website": "https://glostrup.densortegryde.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38745,
+          55.667807
+        ]
+      },
+      "id": "node/3978930498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998379477",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "111941",
+        "name": "Den Sorte Gryde",
+        "opening_hours": "15:00-23:00; Sa-Su 13:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5271479,
+          55.7040629
+        ]
+      },
+      "id": "node/3998379477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999971659",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "114952",
+        "name": "Copenhagen Cable Park Café",
+        "opening_hours": "Jun-Aug Mo-Fr 14:00-18:00; Sa-Su 12:00-18:00",
+        "website": "http://www.copenhagencablepark.dk/cafe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6201584,
+          55.6799001
+        ]
+      },
+      "id": "node/3999971659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4001229088",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "523085",
+        "name": "Burger King 5",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "website": "http://www.burgerking.dk/restauranter/valby/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5123415,
+          55.6641465
+        ]
+      },
+      "id": "node/4001229088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004982517",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "747200",
+        "name": "Design burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599802,
+          55.673365
+        ]
+      },
+      "id": "node/4004982517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4005582082",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "569975",
+        "name": "Halifax Reberbanegade",
+        "opening_hours": "11:30-22:00; Fr-Sa 11:30-23:00",
+        "phone": "+45 82304306",
+        "website": "http://halifax.dk/restauranterne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6039646,
+          55.6634285
+        ]
+      },
+      "id": "node/4005582082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4005983002",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "509309",
+        "name": "Den Sorte Gryde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5628814,
+          55.6814315
+        ]
+      },
+      "id": "node/4005983002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4005983005",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:name": "The Liberty American Restaurant",
+        "fvst:navnelbnr": "112239",
+        "name": "Liberty Burger",
+        "opening_hours": "11:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5627791,
+          55.6622447
+        ]
+      },
+      "id": "node/4005983005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4006016118",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "Grillb1",
+        "fvst:navnelbnr": "713627",
+        "name": "Grillbøffen",
+        "phone": "+45 32202550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5522157,
+          55.6931579
+        ]
+      },
+      "id": "node/4006016118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4006615694",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "521708",
+        "name": "Mors Køkken",
+        "opening_hours": "16:00-22:00",
+        "phone": "+45 38880010",
+        "takeaway": "only",
+        "website": "http://www.morskoekken.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5360487,
+          55.686028
+        ]
+      },
+      "id": "node/4006615694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007452266",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "569503",
+        "name": "Blaabjerg og Madsen",
+        "opening_hours": "12:00-20:00",
+        "website": "http://blaabjergmadsen.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5303776,
+          55.6872991
+        ]
+      },
+      "id": "node/4007452266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007718289",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "557645",
+        "name": "Food& Grisen",
+        "opening_hours": "16:30-21:00",
+        "phone": "+45 53533414",
+        "website": "http://foodand.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5684572,
+          55.6922435
+        ]
+      },
+      "id": "node/4007718289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007932773",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "556553",
+        "name": "Burger & Bun Nørrebro",
+        "opening_hours": "17:00-22:00; Sa-Su 12:00-22:00",
+        "phone": "+45 26111156",
+        "website": "https://burgerogbun.myshopify.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5598511,
+          55.6890632
+        ]
+      },
+      "id": "node/4007932773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008507784",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "662586",
+        "name": "Mood Food",
+        "opening_hours": "10:00-22:00",
+        "operator": "Danix & Deniz",
+        "phone": "+45 33225510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549288,
+          55.667801
+        ]
+      },
+      "id": "node/4008507784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4012704895",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "557699",
+        "name": "Halifax Vesterbrogade",
+        "opening_hours": "11:30-22:00; Fr-Sa 11:30-23:00",
+        "phone": "+45 82304305",
+        "website": "http://halifax.dk/restauranterne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5516519,
+          55.6728078
+        ]
+      },
+      "id": "node/4012704895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4016613455",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "717039",
+        "name": "XO Burgers",
+        "opening_hours": "11:00-23:00; Fr-Sa 11:00-24:00",
+        "phone": "+45 33339434",
+        "website": "http://xoburgersandsteaks.dk/velkommen-axeltorv/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5641238,
+          55.675643
+        ]
+      },
+      "id": "node/4016613455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4016613456",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "fvst:name": "Café Emma og XO Burgers and Steaks",
+        "fvst:navnelbnr": "717039",
+        "name": "Emma",
+        "opening_hours": "09:00-01:00,Th 09:00-02:00, Fr 09:00-03:00",
+        "phone": "+45 33339433",
+        "source": "Bing",
+        "website": "http://cafe-emma.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5641925,
+          55.6756657
+        ]
+      },
+      "id": "node/4016613456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017086546",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "667129",
+        "name": "Friends",
+        "opening_hours": "Mo-Th 11:00-21:00;Fr-Sa 10:00-22:00;Su 12:00-21:00",
+        "website": "https://m.facebook.com/friendsandbrgrsdenmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.574395,
+          55.678463
+        ]
+      },
+      "id": "node/4017086546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017359905",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "576654",
+        "name": "OKKO Café og Bar",
+        "opening_hours": "10:45-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5774907,
+          55.6779907
+        ]
+      },
+      "id": "node/4017359905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017359906",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "519910",
+        "name": "SpiS",
+        "opening_hours": "10:00-22:00",
+        "phone": "+45 73723030",
+        "website": "http://www.cafespis.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5772028,
+          55.6777423
+        ]
+      },
+      "id": "node/4017359906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4020312256",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "116533",
+        "name": "Burger House",
+        "operator": "Tivoli Entertainment",
+        "website": "http://www.tivoli.dk/en/mad/burger+house/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5698812,
+          55.6725752
+        ]
+      },
+      "id": "node/4020312256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4028219251",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "576264",
+        "name": "YoBurger",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+45 93856969",
+        "website": "http://yoburger.dk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5723301,
+          55.6785882
+        ]
+      },
+      "id": "node/4028219251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4176260525",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "635414",
+        "internet_access": "wifi",
+        "name": "Burger King",
+        "opening_hours": "Mo-We 10:00-02:00; Th 10:00-05:00; Fr, Sa 10:00-06:00; Su 10:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5729917,
+          55.6831891
+        ]
+      },
+      "id": "node/4176260525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4206647790",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "576825",
+        "name": "Ilæ burger",
+        "phone": "+45 21693940",
+        "website": "http://ilae.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576081,
+          55.776649
+        ]
+      },
+      "id": "node/4206647790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4208480321",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "645626",
+        "name": "Tommi´s Burger Joint Lyngby",
+        "opening_hours": "10:00-20:00; Fr-Sa 10:00-18:00",
+        "phone": "+45 35363434",
+        "website": "http://www.burgerjoint.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5063095,
+          55.7719448
+        ]
+      },
+      "id": "node/4208480321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4222913303",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "635882",
+        "name": "Cafe Vivaldi Frederiksberg",
+        "opening_hours": "10:00-22:00; Fr-Sa 10:00-24:0; PH 10:00-22:00",
+        "phone": "+45 38333300",
+        "website": "http://cafevivaldi.dk/cafe/Falkoner-all%C3%A9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.533681,
+          55.680321
+        ]
+      },
+      "id": "node/4222913303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234711695",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "645781",
+        "name": "Gasoline Grill",
+        "name:fi": "Gasoline Grill",
+        "website": "https://www.facebook.com/gasolinegrill/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851938,
+          55.6832182
+        ]
+      },
+      "id": "node/4234711695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242438300",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "635701",
+        "name": "Jagger",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "takeaway": "yes",
+        "website": "http://jagger.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5547464,
+          55.6697168
+        ]
+      },
+      "id": "node/4242438300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320015400",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fvst:name": "Max Hamburgerrestaurant",
+        "fvst:navnelbnr": "516397",
+        "name": "Max",
+        "opening_hours": "Mo-We, Su 10:30-00:00; Th-Sa 10:30-06:00",
+        "website": "http://www.max.dk/store-locator/Find-max/Gammeltorv/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572671,
+          55.6782962
+        ]
+      },
+      "id": "node/4320015400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340952887",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "Oscars Bøf og Fishin Chips",
+        "fvst:navnelbnr": "93397",
+        "name": "Oscars Bøf & Fish'n'Chips"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5753857,
+          55.7761519
+        ]
+      },
+      "id": "node/4340952887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351832247",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "652778",
+        "name": "Viadukt",
+        "phone": "+45 32157000",
+        "website": "http://www.cafeviadukt.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2991663,
+          55.6477366
+        ]
+      },
+      "id": "node/4351832247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4353289998",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "652778",
+        "name": "Viadukt",
+        "opening_hours": "10:00-22:00",
+        "phone": "+45 32157000",
+        "website": "http://www.cafeviadukt.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2990993,
+          55.6476836
+        ]
+      },
+      "id": "node/4353289998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393762268",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "111458",
+        "name": "Burger King",
+        "opening_hours": "11:00-22:00",
+        "website": "http://www.burgerking.dk/restauranter/lyngby-kulturhus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.507524,
+          55.771089
+        ]
+      },
+      "id": "node/4393762268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4395357531",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "653133",
+        "name": "Burger Bite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5608246,
+          55.6922949
+        ]
+      },
+      "id": "node/4395357531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398222891",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "125913",
+        "name": "Woodhouse Burgerbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674825,
+          55.6732063
+        ]
+      },
+      "id": "node/4398222891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4425398890",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "544944",
+        "name": "Tommi's Burger Joint",
+        "opening_hours": "su-th 11:00-21:00;fr-sa 11:00-22:00",
+        "phone": "+4533313434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5580799,
+          55.6682272
+        ]
+      },
+      "id": "node/4425398890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4429455848",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "663093",
+        "name": "Efes Kebab & Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.484887,
+          55.6230318
+        ]
+      },
+      "id": "node/4429455848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4434134245",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "116025",
+        "level": "1",
+        "name": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6498665,
+          55.6287531
+        ]
+      },
+      "id": "node/4434134245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453523717",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "665813",
+        "name": "The Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4395362,
+          55.7234252
+        ]
+      },
+      "id": "node/4453523717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460697810",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "Max Hamburgerrestaurant",
+        "fvst:navnelbnr": "566222",
+        "name": "Max i Herlev",
+        "website": "http://www.max.dk/store-locator/Find-max/Herlev/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45023,
+          55.7186
+        ]
+      },
+      "id": "node/4460697810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535972959",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "diet:vegetarian": "yes",
+        "fvst:navnelbnr": "666308",
+        "name": "YOBURGER",
+        "opening_hours": "Mo-Th, Su 11:00-22:00; Fr, Sa 11:00-05:00",
+        "phone": "+45 31819503",
+        "website": "http://www.yoburger.dk",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5830694,
+          55.6819427
+        ]
+      },
+      "id": "node/4535972959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557789466",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "666839",
+        "name": "Texas Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3538332,
+          55.6568915
+        ]
+      },
+      "id": "node/4557789466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593549660",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "672463",
+        "name": "Jagger",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "website": "http://jagger.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6081791,
+          55.657634
+        ]
+      },
+      "id": "node/4593549660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4594379738",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "fvst position missing, fixed from overpassturbo/osak",
+        "fvst:navnelbnr": "671926",
+        "name": "The Diner 1.5",
+        "website": "http://www.royalarena.dk/mad-og-drikke-0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737909,
+          55.6256848
+        ]
+      },
+      "id": "node/4594379738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4606521967",
+        "alt_name": "Chalet Burger & Steak House",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "fvst position missing, fixed from overpassturbo/osak",
+        "fvst:navnelbnr": "719128",
+        "name": "Chalet Steak & Burger",
+        "opening_hours": "17:00-22:00; Fr-Sa 17:00-23:00",
+        "phone": "+45 33339909",
+        "website": "http://chaletsteak.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5733214,
+          55.708849
+        ]
+      },
+      "id": "node/4606521967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729928610",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "699175",
+        "name": "Dannys American Diner",
+        "phone": "+45 50661957",
+        "website": "http://www.theddiner.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.520795,
+          55.666216
+        ]
+      },
+      "id": "node/4729928610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818714465",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "701030",
+        "name": "Carls Jr. 1957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3257154,
+          55.5986932
+        ]
+      },
+      "id": "node/4818714465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818936050",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "700119",
+        "name": "Cocks & Cows",
+        "website": "http://cocksandcows.dk/locations/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6006577,
+          55.6645375
+        ]
+      },
+      "id": "node/4818936050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4823363930",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "115850",
+        "name": "Halifax Falkoner Plads",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5308956,
+          55.6802708
+        ]
+      },
+      "id": "node/4823363930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4879133257",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "699853",
+        "name": "1104",
+        "opening_hours": "10:00-20:00; Fr-Sa 10:00-21:00; Su off; Su 11:00-18:00",
+        "website": "http://cafe1104.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3565762,
+          55.7290095
+        ]
+      },
+      "id": "node/4879133257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922459341",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "701806",
+        "man_made": "works",
+        "name": "Halifax Burger Circus",
+        "operator": "Halifax Burger Restaurant and Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4671965,
+          55.6066255
+        ]
+      },
+      "id": "node/4922459341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4958976430",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "CARLS JR RØDOVRE 1960",
+        "fvst:navnelbnr": "711467",
+        "name": "Carl's Jr",
+        "operator": "Carls Jr."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4565231,
+          55.6797523
+        ]
+      },
+      "id": "node/4958976430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017818075",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "711143",
+        "name": "Burger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.454207,
+          55.625109
+        ]
+      },
+      "id": "node/5017818075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017913258",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "711787",
+        "name": "YoBurger Østerbro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578708,
+          55.698478
+        ]
+      },
+      "id": "node/5017913258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5124560646",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "YONEWStandard",
+        "fvst:navnelbnr": "712413",
+        "name": "Yo Burger The Standard",
+        "phone": "+45 72148808",
+        "toilets:wheelchair": "yes",
+        "website": "http://yoburger.dk/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.592077,
+          55.6779232
+        ]
+      },
+      "id": "node/5124560646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5129569863",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "713580",
+        "name": "We love Burgers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3603293,
+          55.6137456
+        ]
+      },
+      "id": "node/5129569863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143533898",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "710305",
+        "name": "Gasoline Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5773813,
+          55.6795644
+        ]
+      },
+      "id": "node/5143533898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5251715283",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "719269",
+        "name": "Værnedams Kebab og Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54997,
+          55.674274
+        ]
+      },
+      "id": "node/5251715283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5252304235",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "718780",
+        "name": "Burger House Amager"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.612273,
+          55.666082
+        ]
+      },
+      "id": "node/5252304235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299629819",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "716511",
+        "name": "Cocks & Cows Kødbyen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5589364,
+          55.6668636
+        ]
+      },
+      "id": "node/5299629819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299706621",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "732122",
+        "name": "Jagger Fast Food Købmagergade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5769821,
+          55.680834
+        ]
+      },
+      "id": "node/5299706621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304778597",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "721268",
+        "name": "Burger King Vanløse",
+        "operator": "Burger King",
+        "phone": "+45 50768008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911879,
+          55.686939
+        ]
+      },
+      "id": "node/5304778597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5613649001",
+        "alt_name": "Sliders Enghave Plads",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "720329",
+        "name": "Sliders",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "toilets": "yes",
+        "website": "https://sliders.dk/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5475283,
+          55.6676359
+        ]
+      },
+      "id": "node/5613649001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5729905535",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "749311",
+        "name": "Burgers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5505664,
+          55.6525654
+        ]
+      },
+      "id": "node/5729905535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5779408553",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "698962",
+        "internet_access": "wlan",
+        "name": "Hungry Dane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5721368,
+          55.6784901
+        ]
+      },
+      "id": "node/5779408553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5900438269",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "754609",
+        "name": "Burger King Jyllingevej",
+        "operator": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.433843,
+          55.692165
+        ]
+      },
+      "id": "node/5900438269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5901645187",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "name": "Halifax Burgers",
+        "opening_hours": "Mo-Sa 11:30-22:00, Su 11:30-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5135861,
+          55.6654888
+        ]
+      },
+      "id": "node/5901645187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5902366696",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "754458",
+        "name": "OINK OINK BBQ",
+        "website": "http://www.oinkoink.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.573819,
+          55.689414
+        ]
+      },
+      "id": "node/5902366696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5902366699",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "fvst position missing, fixed from overpassturbo/osak",
+        "fvst:navnelbnr": "749162",
+        "name": "Grab N Go Burgers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6099578,
+          55.6931666
+        ]
+      },
+      "id": "node/5902366699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5904870618",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "741345",
+        "name": "Holy Cow",
+        "phone": "+45 32202500",
+        "takeaway": "yes",
+        "website": "https://www.holycow.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5745838,
+          55.7616927
+        ]
+      },
+      "id": "node/5904870618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5907748646",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "757448",
+        "name": "BJs Original Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.543466,
+          55.671153
+        ]
+      },
+      "id": "node/5907748646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5917638827",
+        "amenity": "fast_food",
+        "branch": "Nordre Frihavnsgade",
+        "cuisine": "burger",
+        "fvst:name": "Jagger fast food Nordre frihavnsgade",
+        "fvst:navnelbnr": "761545",
+        "name": "Jagger",
+        "opening_hours": "11:00-22:00",
+        "website": "https://jaggerfastfood.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5835552,
+          55.7024003
+        ]
+      },
+      "id": "node/5917638827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068763544",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "768168",
+        "name": "Gogo burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.477003,
+          55.728584
+        ]
+      },
+      "id": "node/6068763544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068919927",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "fvst position missing, fixed from overpassturbo/osak",
+        "fvst:navnelbnr": "761979",
+        "name": "Rumbles Valby",
+        "website": "https://rumbles.dk/valby/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51425,
+          55.658857
+        ]
+      },
+      "id": "node/6068919927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068987926",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:name": "Nobels",
+        "fvst:navnelbnr": "548682",
+        "name": "Burgerklubben"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5510958,
+          55.6930287
+        ]
+      },
+      "id": "node/6068987926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6123354937",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:navnelbnr": "768000",
+        "name": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5773837,
+          55.6259494
+        ]
+      },
+      "id": "node/6123354937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6166087770",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "fvst:fixme": "fvst position missing, fixed from overpassturbo/osak",
+        "fvst:navnelbnr": "763391",
+        "name": "Burger King - Greve S",
+        "operator": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2570121,
+          55.5845013
+        ]
+      },
+      "id": "node/6166087770"
+    }
+  ]
+}
